@@ -1,0 +1,4 @@
+1111 Arad Cluj 22-12-2021 one-way 450
+1122 Oradea Bucuresti 23-05-2021 dus-intors 250
+4000 Pitesti Iasi 22-10-2021 one-way 500
+1212 Iasi Pitesti 25-10-2021 one-way 200

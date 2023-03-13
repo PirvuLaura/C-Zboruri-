@@ -1,0 +1,3 @@
+1111 Arad Cluj 22-12-2021 one-way 450
+2323 Valcea Sibiu 08-08-2008 dus-intors 500
+1122 Arad Bucuresti 23-05-2021 dus-intors 200
